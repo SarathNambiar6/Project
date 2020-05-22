@@ -6,9 +6,8 @@ import android.view.MenuItem;
 
 import com.ixidev.simplenotepad.R;
 
-/**
- * Created by ixi.Dv on 22/07/2018.
- */
+
+
 public abstract class MainActionModeCallback implements ActionMode.Callback {
     private ActionMode action;
     private MenuItem countItem;
